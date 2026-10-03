@@ -68,5 +68,7 @@ Release notes for every version are on [flashbk.gg/changelog](https://flashbk.gg
 
 ## Licenses and policies
 
+- Flashback is proprietary software: the source code is private, and the official releases may be downloaded and used free of charge under the [Flashback license](LICENSE) and the [Flashback Terms](https://flashbk.gg/terms). Please don't re-host the installer or its files.
+
 - Third-party components and their licenses are listed in the `THIRD_PARTY_NOTICES.md` file and `licenses` folder inside every Flashback install, and summarized on the wiki's [Third-Party Software](https://github.com/Riqqqque/Flashback-Releases/wiki/Third-Party-Software) page.
 - [Privacy](https://flashbk.gg/privacy), [Terms](https://flashbk.gg/terms), [Billing and refunds](https://flashbk.gg/refunds), [Acceptable use](https://flashbk.gg/acceptable-use), [Copyright](https://flashbk.gg/copyright) and [Security](https://flashbk.gg/security) are on flashbk.gg.

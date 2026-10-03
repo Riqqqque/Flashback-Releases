@@ -1,0 +1,46 @@
+Flashback
+Copyright (c) 2026 Rique. All rights reserved.
+
+Flashback, including its source code, binaries, installers, documentation, designs and
+brand, is proprietary software owned by Rique.
+
+USING FLASHBACK
+
+You may download Flashback from https://flashbk.gg or from the official Flashback-Releases
+repository on GitHub, install it on computers you own or control, and use it to record and
+share your own gameplay, for personal or commercial purposes, free of charge, subject to the
+Flashback Terms at https://flashbk.gg/terms. Flashback is licensed, not sold. The clips and
+screenshots you make with Flashback are yours.
+
+Unless Rique gives written permission, or applicable law expressly allows it, you may not:
+
+- copy, publish, redistribute, sell, rent, lend or sublicense Flashback or any part of it,
+  including offering its installer or files for download anywhere else;
+- modify, adapt, translate or create derivative works of Flashback;
+- decompile, disassemble or reverse engineer Flashback, except as stated under
+  Third-party components below;
+- remove or change any copyright, license or attribution notice;
+- use the Flashback name, logo or brand in a way that suggests endorsement.
+
+SOURCE CODE
+
+The Flashback source code is private and confidential. No right to access, use, copy,
+modify or distribute it is granted without Rique's prior written permission.
+
+THIRD-PARTY COMPONENTS
+
+Flashback includes open-source components that are licensed under their own terms, listed in THIRD_PARTY_NOTICES.md and the licenses folder installed with Flashback. Those licenses govern those components,
+and nothing in this license limits the rights they give you. In particular, the bundled
+FFmpeg libraries are licensed under the GNU Lesser General Public License, version 2.1 or
+later: you may replace or modify them, and you may reverse engineer Flashback to the extent
+that license allows for debugging such modifications. THIRD_PARTY_NOTICES.md says where
+their corresponding source is published.
+
+NO WARRANTY
+
+Flashback is provided "as is", without warranty of any kind, express or implied, including
+merchantability, fitness for a particular purpose and non-infringement. To the extent the law
+allows, Rique is not liable for any claim, damages or other liability arising from Flashback
+or its use. The Flashback Terms set out the full terms, including limits of liability.
+
+For permissions or questions: support@flashbk.gg
