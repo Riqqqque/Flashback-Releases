@@ -11,7 +11,7 @@ This repository is the official public home for Flashback's Windows installers, 
 - **[flashbk.gg](https://flashbk.gg)**: the Download button always points at the current release.
 - **[Latest release](https://github.com/Riqqqque/Flashback-Releases/releases/latest)** on this repository.
 
-Flashback runs on 64-bit Windows 11 and is built for a GPU with a hardware video encoder (most current NVIDIA, AMD and Intel graphics). The 0.8.0 installer is about 105 MB. Setup is a single step with its own install screen: it installs for your Windows user, with no administrator prompt and no Visual C++ or other runtime to install first. See [System Requirements](https://github.com/Riqqqque/Flashback-Releases/wiki/System-Requirements) and [Getting Started](https://github.com/Riqqqque/Flashback-Releases/wiki/Getting-Started).
+Flashback runs on 64-bit Windows 11 and is built for a GPU with a hardware video encoder (most current NVIDIA, AMD and Intel graphics). The 0.8.0 installer is about 106 MB. Setup is a single step with its own install screen: it installs for your Windows user, with no administrator prompt and no Visual C++ or other runtime to install first. See [System Requirements](https://github.com/Riqqqque/Flashback-Releases/wiki/System-Requirements) and [Getting Started](https://github.com/Riqqqque/Flashback-Releases/wiki/Getting-Started).
 
 Don't download Flashback installers from unofficial mirrors.
 
@@ -19,7 +19,7 @@ Don't download Flashback installers from unofficial mirrors.
 
 - **Editable audio tracks for everyone**: a Flashback mix every player plays, plus Game and desktop and Microphone tracks, on by default with no microphone needed. **Record audio from** picks one speaker or headset. ([Audio](https://github.com/Riqqqque/Flashback-Releases/wiki/Audio))
 - **Clean microphone audio**: the static on voice in clips from 0.7.22 to 0.7.41 is fixed, and Flashback warns you when the microphone itself drops audio. ([Troubleshooting Audio](https://github.com/Riqqqque/Flashback-Releases/wiki/Troubleshooting-Audio))
-- **Game profiles for any game or app**, name presets and folder layouts with a live preview, and an Editor and Montage that open clips straight from your library. ([Per-Game Profiles](https://github.com/Riqqqque/Flashback-Releases/wiki/Per-Game-Profiles), [Naming and Organization](https://github.com/Riqqqque/Flashback-Releases/wiki/Naming-and-Organization), [Editor and Montage](https://github.com/Riqqqque/Flashback-Releases/wiki/Editor-and-Montage))
+- **Game profiles for any game or app**, name presets and folder layouts with a live preview, and an Editor and Montage that open clips straight from your library, with music, fades and crossfades for montages. ([Per-Game Profiles](https://github.com/Riqqqque/Flashback-Releases/wiki/Per-Game-Profiles), [Naming and Organization](https://github.com/Riqqqque/Flashback-Releases/wiki/Naming-and-Organization), [Editor and Montage](https://github.com/Riqqqque/Flashback-Releases/wiki/Editor-and-Montage))
 - **A redesigned Cloud tab**, profile links at `flashbk.gg/<username>`, and Cloud account deletion you can undo for seven days. Cloud opens from its server, and the Cloud tab shows whether it's open. ([Flashback Cloud](https://github.com/Riqqqque/Flashback-Releases/wiki/Flashback-Cloud))
 - Keycap shortcut fields, a Ghost Mode switch in the tray, Discord status settings that say who sees your status and its **Get Flashback** link, Flashback on .NET 10 with its own trimmed FFmpeg build, and a one-step installer.
 
